@@ -20,5 +20,22 @@ div {
 }
 
 img {
+  display: block;
   margin: auto;
+}
+
+h2 {
+  color: black;
+  text-align: left;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+h3 {
+  color: black;
+  text-align: left;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
 }
